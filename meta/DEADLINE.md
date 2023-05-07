@@ -14,18 +14,26 @@ Markdown is transformed into nice looking HTML.
 
 > **Also, include the GitHub `https` URL to your repository.**
 
-TODO WRITE / REPLACE
+My app checks the users IP to find their Country and City using the first API then
+    instersts the users Country and City to find weather related information using the second API.
+
+    https://github.com/firasastwani/cs1302-api
+
 
 ## Part 2: New
 
 > What is something new and/or exciting that you learned from working
 > on this project?
 
-TODO WRITE / REPLACE
+    I learned how to extract specific pieces of information from long JSON strings
+    by creating seperate new classes and GSON to parse wanted information.
+
+    I also learned how to access online APIs using API Tokens for different APIs
 
 ## Part 3: Retrospect
 
 > If you could start the project over from scratch, what do
 > you think might do differently and why?
 
-TODO WRITE / REPLACE
+    I would focus more on building a nicer GUI as I would
+    already know what to do with the backend API part
